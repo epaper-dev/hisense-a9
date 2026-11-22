@@ -1,6 +1,6 @@
 # Hisense A9
 
-English · [Deutsch](#deutsch) · [Español](#español)
+English · [Deutsch](#deutsch) · [Español](#español) · [Русский](#русский)
 
 ## [→ Visit the hisense-a9 organization](https://github.com/hisense-a9)
 
@@ -19,3 +19,9 @@ Die Projekte und Repositories findest du in der GitHub-Organisation **[hisense-a
 ### [→ Ir a la organización hisense-a9](https://github.com/hisense-a9)
 
 Los proyectos y repositorios se encuentran en la organización de GitHub **[hisense-a9](https://github.com/hisense-a9)**. Este repositorio sirve únicamente como enlace y no contiene una copia de los proyectos.
+
+## Русский
+
+### [→ Перейти к организации hisense-a9](https://github.com/hisense-a9)
+
+Проекты и репозитории находятся в организации GitHub **[hisense-a9](https://github.com/hisense-a9)**. Этот репозиторий служит только ссылкой и не содержит копий проектов.
